@@ -2,9 +2,6 @@ package find_greatest;
 
 import java.util.Arrays;
 
-// does work?
-// yes
-
 
 /**
  * 
